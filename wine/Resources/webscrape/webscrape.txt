@@ -1,0 +1,7 @@
+# LCBO urls
+
+# red wine
+https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/wine-14/red-wine-14001
+
+# white wine
+https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/wine-14/white-wine-14002
